@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Produto de Teste"
+    },
+    {
+      "id": "c4e1",
+      "title": "Produto Teste 2"
+    },
+    {
+      "id": "4f8a",
+      "title": "Produto Teste 3"
+    },
+    {
+      "id": "ef01",
+      "title": "Produto teste 4"
+    },
+    {
+      "id": "936f",
+      "title": "Produto teste 5"
+    },
+    {
+      "id": "ace6",
+      "title": "Produto teste 6"
+    },
+    {
+      "id": "658a",
+      "title": "Produto teste 7"
+    }
+  ]
+}

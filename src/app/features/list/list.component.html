@@ -1,0 +1,14 @@
+<div class="action-container">
+    <a
+        mat-flat-button 
+        [routerLink]="['create-product']" 
+        color="primary"
+    >
+        Criar produto
+    </a>
+</div>
+
+@for (product of products; track product.id) {
+    <app-card [product]="product" (edit)="onEdit()"></app-card>
+}
+
